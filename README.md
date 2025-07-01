@@ -28,7 +28,7 @@ A binary classification task to predict whether a petition is “important” or
 |------|-------------|
 | `task1_topic_classification.ipynb` | Jupyter notebook containing code for Task 1 using DistilBERT |
 | `task2_petition_importance.ipynb` | Jupyter notebook containing code for Task 2 with both DistilBERT and RandomForest models |
-| `report_comp1804.pdf` | Full project report including data exploration, modeling, ethical considerations, and evaluation |
+| `report.pdf` | Full project report including data exploration, modeling, ethical considerations, and evaluation |
 
 ## ⚠️ Data Disclaimer
 
